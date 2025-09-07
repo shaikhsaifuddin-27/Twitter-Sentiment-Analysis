@@ -113,4 +113,7 @@ Twitter-Sentiment-Analysis/
 ## 📬 Contact
 
 Made with ❤️ by [Alfaiz Shaikh](https://github.com/AlfaizShaikh03)
+                 [Shaikh Saifuddin](https://github.com/shaikhsaifuddin-27)
+                 [Shaikh Mohammed Musa](https://github.com/mohammedmusa1)
+                 
 
